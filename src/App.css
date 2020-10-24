@@ -1,0 +1,45 @@
+html,
+body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.first{
+  background-color: white;
+}
+.second{
+  background-color: white;
+}
+.third{
+  background-color: white;
+}
+.navigation{
+  width: 100vw;
+  background: #000;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  padding: 10px 40px;
+  box-sizing: border-box;
+  color: white;
+}
+.nav-item{
+  display: inline-block;
+  float: right;
+  margin: 0 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.color-me{
+  display: inline-block;
+  float: left;
+  margin: 0;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+
+
+

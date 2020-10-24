@@ -1,0 +1,75 @@
+{
+  "title": "Hello, I'm a web developer",
+  "subtitle": "Computer engineer | Programmer | Full Stack Dev ",
+  "links" : {
+    "github" : "https://github.com/z-web-developer",
+    "stackoverflow" : "https://stackoverflow.com/",
+    "dribbble" : "https://dribbble.com/z-yftn"
+  },
+  "sections" : [
+    {
+      "title" : "About",
+      "items" : [
+        {
+          "type" : "p",
+          "content" : "I love to learn"
+        },
+        {
+          "type" : "p",
+          "content" : "I love programming"
+        },
+        {
+          "type" : "p",
+          "content" : "You can not be a programmer without a love of programming."
+        },
+        {
+          "type" : "p",
+          "content" : ":))))"
+        }
+      ]
+    },
+    {
+      "title" : "skills",
+      "items" : [
+        {
+          "type" : "card",
+          "content" : {
+            "image" : "images/react.png",
+            "title" : "React"
+          }
+        },
+        {
+          "type" : "card",
+          "content" : {
+            "image" : "images/js.png",
+            "title" : "Javascript"
+          }
+        },
+        {
+          "type" : "card",
+          "content" : {
+            "image" : "images/html.png",
+            "title" : "Html"
+          }
+        },
+        {
+          "type" : "card",
+          "content" : {
+            "image" : "images/css.png",
+            "title" : "Css"
+          }
+        },
+        {
+          "type" : "card",
+          "content" : {
+            "image" : "images/php.png",
+            "title" : "Php"
+          }
+        }
+      ]
+    }
+  ],
+  "icons" : {
+    "down" : "images/down.png"
+  }
+}
